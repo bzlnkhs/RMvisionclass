@@ -1,0 +1,4 @@
+/home/bzlnkhs/RMtask/build/CMakeFiles/AnimalLib.dir
+/home/bzlnkhs/RMtask/build/CMakeFiles/AnimalsInZoo.dir
+/home/bzlnkhs/RMtask/build/CMakeFiles/edit_cache.dir
+/home/bzlnkhs/RMtask/build/CMakeFiles/rebuild_cache.dir

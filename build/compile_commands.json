@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bzlnkhs/RMtask/build",
+  "command": "/usr/bin/c++  -I\"/home/bzlnkhs/RMtask/include*\" -std=gnu++17 -o CMakeFiles/AnimalLib.dir/src/no1.cpp.o -c /home/bzlnkhs/RMtask/src/no1.cpp",
+  "file": "/home/bzlnkhs/RMtask/src/no1.cpp"
+},
+{
+  "directory": "/home/bzlnkhs/RMtask/build",
+  "command": "/usr/bin/c++  -I\"/home/bzlnkhs/RMtask/include*\" -std=gnu++17 -o CMakeFiles/AnimalsInZoo.dir/src/no1.cpp.o -c /home/bzlnkhs/RMtask/src/no1.cpp",
+  "file": "/home/bzlnkhs/RMtask/src/no1.cpp"
+}
+]

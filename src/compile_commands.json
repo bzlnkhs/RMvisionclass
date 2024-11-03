@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bzlnkhs/RMtask/src",
+  "command": "/usr/bin/c++  -I\"/home/bzlnkhs/RMtask/include*\" -std=gnu++17 -o CMakeFiles/zoo.dir/zoo.cpp.o -c /home/bzlnkhs/RMtask/src/zoo.cpp",
+  "file": "/home/bzlnkhs/RMtask/src/zoo.cpp"
+},
+{
+  "directory": "/home/bzlnkhs/RMtask/src",
+  "command": "/usr/bin/c++  -I\"/home/bzlnkhs/RMtask/include*\" -std=gnu++17 -o CMakeFiles/Zoo.dir/zoo.cpp.o -c /home/bzlnkhs/RMtask/src/zoo.cpp",
+  "file": "/home/bzlnkhs/RMtask/src/zoo.cpp"
+}
+]

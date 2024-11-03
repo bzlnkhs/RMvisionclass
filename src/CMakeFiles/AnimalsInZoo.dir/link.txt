@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AnimalsInZoo.dir/zoo.cpp.o -o AnimalsInZoo  libAnimalLib.a 

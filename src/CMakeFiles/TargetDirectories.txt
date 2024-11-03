@@ -1,0 +1,4 @@
+/home/bzlnkhs/RMtask/src/CMakeFiles/zoo.dir
+/home/bzlnkhs/RMtask/src/CMakeFiles/Zoo.dir
+/home/bzlnkhs/RMtask/src/CMakeFiles/edit_cache.dir
+/home/bzlnkhs/RMtask/src/CMakeFiles/rebuild_cache.dir
